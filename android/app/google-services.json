@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859116502721",
+    "project_id": "planwise-fe339",
+    "storage_bucket": "planwise-fe339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859116502721:android:37f216255b3fd81cb39e40",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx-wyGm8QgPS4yVqaAAEE1i2cyCBRm4Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
